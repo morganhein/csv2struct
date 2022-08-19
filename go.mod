@@ -1,4 +1,4 @@
-module github.com/Koshqua/csv2struct
+module github.com/morganhein/csv2struct
 
 go 1.17
 
